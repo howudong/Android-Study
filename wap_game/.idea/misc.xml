@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/2021_APP_TEAM4/wap_game/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26979166666666665" />
+        <entry key="..\:/2021_APP_TEAM4/wap_game/app/src/main/res/drawable/progressbar_custom.xml" value="0.26564102564102565" />
+        <entry key="..\:/2021_APP_TEAM4/wap_game/app/src/main/res/drawable/progressbar_custum.xml" value="0.13333333333333333" />
+        <entry key="..\:/2021_APP_TEAM4/wap_game/app/src/main/res/layout/activity_main.xml" value="0.1296875" />
+        <entry key="..\:/2021_APP_TEAM4/wap_game/app/src/main/res/layout/fragment_game.xml" value="0.12239583333333333" />
+        <entry key="..\:/JP-Study/wap_game/app/src/main/res/drawable/progressbar_custom.xml" value="0.26564102564102565" />
+        <entry key="..\:/JP-Study/wap_game/app/src/main/res/layout/activity_main.xml" value="0.2509057971014493" />
+        <entry key="..\:/JP-Study/wap_game/app/src/main/res/layout/fragment_game.xml" value="0.2509057971014493" />
         <entry key="..\:/Users/Junpyo Hong/Documents/GitHub/wap_game/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22083333333333333" />
         <entry key="..\:/Users/Junpyo Hong/Documents/GitHub/wap_game/app/src/main/res/drawable/anim.xml" value="0.21388888888888888" />
         <entry key="..\:/Users/Junpyo Hong/Documents/GitHub/wap_game/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22083333333333333" />
